@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:05/09/2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -36,9 +36,47 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+html>
+    <head>
+        <title>This pc</title>
+    </head>
+    <body>
+            <h1>Device specification-25014669</h1>
+        <table border="3" cellspacing="5" cellpadding="10">
+            <tr>
+                <td>S.no</td>
+                <td>Device name</td>
+                <td>Description</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>TMP215-75-G2</td>
+                <td>Intel(R)Core(TM)ULTRA 5 125H (1.20 GHz)</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>RAM</td>
+                <td>16.00 GB (15.5 GB usable)</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Product ID</td>
+                <td>00342-42784-66141-AAOEM</td>
+            </tr>
+        </table>
+    </body>
+</html>
 
+
+
+            
+
+```
 
 ## OUTPUT:
+![alt text](<Screenshot (14).png>)
+![alt text](<Screenshot (15)-1.png>)
 
 
 ## RESULT:
