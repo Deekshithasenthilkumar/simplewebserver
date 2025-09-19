@@ -76,7 +76,10 @@ html>
 
 ## OUTPUT:
 ![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15)-1.png>)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff382af9-1234-46f1-80d1-e980d4b62020" />
+
 
 
 ## RESULT:
